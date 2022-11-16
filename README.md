@@ -1,1 +1,1 @@
-# Proge
+Semmel armastab väikseid poisse.
