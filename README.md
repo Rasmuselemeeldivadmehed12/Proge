@@ -1,1 +1,1 @@
-Semmel armastab väikseid poisse.
+cristeril on mahlane pepu
