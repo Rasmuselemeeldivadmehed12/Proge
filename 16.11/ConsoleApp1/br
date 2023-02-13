@@ -1,0 +1,17 @@
+using System;
+
+namespace Foreach1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] names = { "Anton Tammsaare", "Lydia Koidula", "August Gailit", "Betti Alver" };
+
+            foreach (string i in names)
+            {
+                Console.WriteLine(i);
+            }
+        }
+    }
+}
